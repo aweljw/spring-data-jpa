@@ -1,2 +1,8 @@
 # spring-data-jpa
-spring-data-jpa
+
+@Entity
+
+@Id
+
+@Colmn
+
